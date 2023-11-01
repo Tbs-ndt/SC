@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Mumbuni Soccer Team Players</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <header>
+    <nav>
+      <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="#players">Players</a></li>
+        <li><a href="management.html">Management</a></li>
+      </ul>
+    </nav>
+  </header>
+  <section id="players">
+    <!-- Player slots go here (see style.css for positioning) -->
+  </section>
+</body>
+</html>
