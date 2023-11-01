@@ -4,7 +4,7 @@
     <style>
         body {
             background-color: yellow;
-            background-image: url('/media/enskie/55BB612E489DB31E/Fb/0.jpg');
+            background-image: url('/media/enskie/55BB612E489DB31E/Fb/Opera Snapshot_2023-10-16_090748_web.facebook.com.png');
             background-size: cover;
             background-blend-mode: multiply;
             color: black;
