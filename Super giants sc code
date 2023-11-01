@@ -66,41 +66,21 @@
         <section id="home" class="section">
             <p>Welcome to Super Giants Soccer Team. We are dedicated to the world of soccer, bringing the best talent to the field.</p>
         </section>
-
-        <section id="management">
-            <h2>Management</h2>
-            <div class="section">
-                <img src="manager-image.jpg" alt="Manager Image">
-                <p>Manager: John Doe</p>
-            </div>
-            <div class="section">
-                <img src="patron-image.jpg" alt="Patron Image">
-                <p>Patron: Jane Smith</p>
-            </div>
-        </section>
-
-        <section id="players">
-            <h2>Players</h2>
-            <div class="players">
-                <!-- Goalkeepers -->
-                <div class="section">
-                    <img src="goalkeeper1.jpg" alt="Goalkeeper 1">
-                    <p>Player Name</p>
-                    <p>Goalkeeper</p>
-                </div>
-                <div class="section">
-                    <img src="goalkeeper2.jpg" alt="Goalkeeper 2">
-                    <p>Player Name</p>
-                    <p>Goalkeeper</p>
-                </div>
-                <!-- Defenders -->
-                <!-- Add 6 defenders here -->
-                <!-- Midfielders -->
-                <!-- Add 8 midfielders here -->
-                <!-- Strikers -->
-                <!-- Add 6 strikers here -->
-            </div>
-        </section>
     </div>
-</body>
-</html>
+    
+    <section id="management">
+        <h2>Management</h2>
+        <div class="container">
+            <div class="section">
+                <img src="/media/enskie/55BB612E489DB31E/Fb/file (8).jpg" alt="Thomas Mutua">
+                <p>Coach: Thomas Mutua</p>
+            </div>
+            <div class="section">
+                <img src="/media/enskie/55BB612E489DB31E/Fb/90.png" alt="Mutwii">
+                <p>Patron: Mutwii</p>
+            </div>
+        </div>
+    </section>
+
+    <section id="players">
+        <h2>Players
