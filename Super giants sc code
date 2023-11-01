@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body {
+            background-color: yellow;
+            background-image: url('/media/enskie/55BB612E489DB31E/Fb/0.jpg');
+            background-size: cover;
+            background-blend-mode: multiply;
+            color: black;
+            font-family: Arial, sans-serif;
+        }
+
+        header {
+            text-align: right;
+        }
+
+        header a {
+            margin-right: 20px;
+            text-decoration: none;
+            color: black;
+        }
+
+        .logo {
+            width: 150px;
+            height: 150px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+        }
+
+        .section {
+            text-align: center;
+            margin: 20px;
+        }
+
+        .section img {
+            width: 150px;
+            height: 150px;
+        }
+
+        .players {
+            display: flex;
+            flex-wrap: wrap;
+            justify-content: center;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <a href="#home">Home</a>
+        <a href="#management">Management</a>
+        <a href="#players">Players</a>
+    </header>
+
+    <div class="container">
+        <h1>Super Giants Soccer Team</h1>
+
+        <section id="home" class="section">
+            <p>Welcome to Super Giants Soccer Team. We are dedicated to the world of soccer, bringing the best talent to the field.</p>
+        </section>
+
+        <section id="management">
+            <h2>Management</h2>
+            <div class="section">
+                <img src="manager-image.jpg" alt="Manager Image">
+                <p>Manager: John Doe</p>
+            </div>
+            <div class="section">
+                <img src="patron-image.jpg" alt="Patron Image">
+                <p>Patron: Jane Smith</p>
+            </div>
+        </section>
+
+        <section id="players">
+            <h2>Players</h2>
+            <div class="players">
+                <!-- Goalkeepers -->
+                <div class="section">
+                    <img src="goalkeeper1.jpg" alt="Goalkeeper 1">
+                    <p>Player Name</p>
+                    <p>Goalkeeper</p>
+                </div>
+                <div class="section">
+                    <img src="goalkeeper2.jpg" alt="Goalkeeper 2">
+                    <p>Player Name</p>
+                    <p>Goalkeeper</p>
+                </div>
+                <!-- Defenders -->
+                <!-- Add 6 defenders here -->
+                <!-- Midfielders -->
+                <!-- Add 8 midfielders here -->
+                <!-- Strikers -->
+                <!-- Add 6 strikers here -->
+            </div>
+        </section>
+    </div>
+</body>
+</html>
